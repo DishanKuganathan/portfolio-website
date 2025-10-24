@@ -4,6 +4,7 @@ import Image from "next/image";
 import styles from "./page.module.css";
 import Header from "./components/header/header";
 import AboutMe from "./components/aboutme/aboutme"
+import Experience from "./components/experience/experience";
 
 export default function Home() {
   return (
@@ -16,7 +17,9 @@ export default function Home() {
           <div className="py-20">
             <AboutMe />
           </div>
-
+          <div className="py-20">
+            <Experience />
+          </div>
         </div>
       </div>
 
