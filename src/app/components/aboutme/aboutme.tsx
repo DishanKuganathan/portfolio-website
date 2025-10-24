@@ -12,7 +12,7 @@ function aboutme() {
             <p className="">Kuganathan</p>
           </span>
         </span>
-        <p className="max-w-[500px] mb-9 text-white/80">4. year of apprenticship as a Software developer</p>
+        <p className="max-w-[500px] my-6 mb-9 text-white/80 ">4. year of apprenticship as a Software developer</p>
 
         {/* Button Section */}
         {/* Download CV */}

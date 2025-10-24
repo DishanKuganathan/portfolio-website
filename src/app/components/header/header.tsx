@@ -11,6 +11,7 @@ function header() {
         <li className="hover:text-indigo-600 hover:drop-shadow-lg/30 transition">Skills</li>
         <li className="hover:text-indigo-600 hover:drop-shadow-lg/30 transition">Certifications</li>
         <li className="hover:text-indigo-600 hover:drop-shadow-lg/30 transition">Resume</li>
+        <li className="hover:text-indigo-600 hover:drop-shadow-lg/30 transition">Contact</li>
       </ul>
     </div >
   )

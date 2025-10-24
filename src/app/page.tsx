@@ -10,8 +10,13 @@ export default function Home() {
     <>
       <div className="w-full bg-zinc-800">
         <div className="font-mono text-[#FFFFFF] max-w-[1900px] mx-auto px-6 md:px-16 xl:px-15 2xl:px-30">
-          <Header />
-          <AboutMe />
+          <div>
+            <Header />
+          </div>
+          <div className="py-20">
+            <AboutMe />
+          </div>
+
         </div>
       </div>
 
