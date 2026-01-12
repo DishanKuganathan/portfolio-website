@@ -8,12 +8,16 @@ function experience() {
         {/* Apps Team */}
         <div className=" rounded-[20px] transition-all duration-300 bg-gradient-to-br from-[#00ff75] to-[#3700ff] hover:shadow-[0_0_30px_1px_rgba(0,255,117,0.3)] flex items-center justify-center">
           <div className=" bg-zinc-900 rounded-[16px] transition-all duration-200 hover:scale-95 hover:rounded-[20px] flex items-center justify-center">
-            <div className="rounded-4xl p-6 my-2 text-white grid grid-cols-5 gap-20">
+            <div className="rounded-4xl p-6 my-2 text-white grid grid-cols-6 gap-20">
               <div className="col-span-1 flex flex-col items-center">
-                <img src="./test.jpg" className="h-[60px] w-[60px] rounded-xl" alt="" />
+                <img src="./appsteam-logo.jpg" className="h-[60px] w-[60px] rounded-xl" alt="" />
                 <div className="border-l-2 border-gray-300 h-full mt-4"></div>
               </div>
-              <div className="col-span-4 col-start-2">
+              <div className="col-span-1 flex flex-col items-center">
+                <img src="./appsteam-logo.jpg" className="h-[60px] w-[60px] rounded-xl" alt="" />
+                <div className="border-l-2 border-gray-300 h-full mt-4"></div>
+              </div>
+              <div className="col-span-4 col-start-3">
                 <p className="text-lg font-bold">
                   Apps Team Fullstack Developer IPA
                 </p>
@@ -31,7 +35,7 @@ function experience() {
           <div className=" bg-zinc-900 rounded-[16px] transition-all duration-200 hover:scale-95 hover:rounded-[20px] flex items-center justify-center">
             <div className="rounded-4xl p-6 my-2 text-white grid grid-cols-5 gap-20">
               <div className="col-span-1 flex flex-col items-center">
-                <img src="./test.jpg" className="h-[60px] w-[60px] rounded-xl" alt="" />
+                <img src="./sitelab-logo.svg" className="h-[60px] w-[60px] rounded-xl" alt="" />
                 <div className="border-l-2 border-gray-300 h-full mt-4"></div>
               </div>
               <div className="col-span-4 col-start-2">
@@ -73,7 +77,7 @@ function experience() {
           <div className=" bg-zinc-900 rounded-[16px] transition-all duration-200 hover:scale-95 hover:rounded-[20px] flex items-center justify-center">
             <div className="rounded-4xl p-6 my-2 text-white grid grid-cols-5 gap-20">
               <div className="col-span-1 flex flex-col items-center">
-                <img src="./test.jpg" className="h-[60px] w-[60px] rounded-xl" alt="" />
+                <img src="./swisscom-logo.png" className="h-[60px] w-[60px] rounded-xl" alt="" />
                 <div className="border-l-2 border-gray-300 h-full mt-4"></div>
               </div>
               <div className="col-span-4 col-start-2">
